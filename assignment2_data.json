@@ -1,0 +1,1 @@
+{"Nodes": ["AA", "AB", "AC", "AD", "AE", "AF", "AG"], "Edges": [{"from": "AD", "to": "AG", "cost": 3.26}, {"from": "AB", "to": "AF", "cost": 4.86}, {"from": "AD", "to": "AB", "cost": 1.39}, {"from": "AD", "to": "AG", "cost": 3.99}, {"from": "AC", "to": "AA", "cost": 2.79}]}
